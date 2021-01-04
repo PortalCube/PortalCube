@@ -3,4 +3,4 @@
 ![765 Production](https://img.shields.io/badge/765-Production-%23f34e6d?style=flat-square)
 ![283 Production](https://img.shields.io/badge/283-Production-%238dbafe?style=flat-square)
 <br>
-[![PortalCube's github stats](https://github-readme-stats.vercel.app/api?username=PortalCube&theme=tokyonight)](https://github.com/PortalCube)
+[![PortalCube's github stats](https://github-readme-stats.vercel.app/api?username=PortalCube&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/PortalCube)
